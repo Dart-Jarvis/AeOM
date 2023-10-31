@@ -15,8 +15,8 @@ Optical density and GC data for the 27 $\degree$C experiment 2.
 ## Cu_concentration
 ICP-OES data for dissolved copper concentrations, and codes for plotting Cu concentrations.
 ## Model
-Kinetic model for the time evolution of isotope abundances during aerobic methane oxidation.
-AeOM_kinetics_input.txt is the input file for tbe initial isotopologue abundances.
+Kinetic model for the time evolution of isotope abundances during aerobic methane oxidation. \\
+AeOM_kinetics_input.txt is the input file for tbe initial isotopologue abundances. \\
 AeOM_model-K_oxidize.ipynb and AeOM_model-K_oxidize-open.ipynb are the codes for closed and open-system models.
 ## Modeling
 

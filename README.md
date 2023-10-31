@@ -19,13 +19,14 @@ Kinetic model for the time evolution of isotope abundances during aerobic methan
 AeOM_kinetics_input.txt is the input file for tbe initial isotopologue abundances. \
 AeOM_model-K_oxidize.ipynb and AeOM_model-K_oxidize-open.ipynb are the codes for closed and open-system models.
 ## Modeling
-
+Modeled results for plotting.
 ## Water_isotope
-
+Datasheets for water $\delta$D measurements.
 ## Mcaps_Clumped_data_plotting.xlsx
-
+Main datasheet containing isotope data for plotting.
 ## Plots.ipynb
-
+Codes for the plots in the manuscript.
 ## data_table.xlsx
-
+Processed isotope data for calculating fractionation factors.
 ## open_system.xlsx
+Results from the open-system model for plotting.

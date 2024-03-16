@@ -17,7 +17,8 @@ ICP-OES data for dissolved copper concentrations, and codes for plotting Cu conc
 ## Model
 Kinetic model for the time evolution of isotope abundances during aerobic methane oxidation. \
 AeOM_kinetics_input.txt is the input file for tbe initial isotopologue abundances. \
-AeOM_model-K_oxidize.ipynb and AeOM_model-K_oxidize-open.ipynb are the codes for closed and open-system models.
+AeOM_model-K_oxidize.ipynb and AeOM_model-K_oxidize-open.ipynb are the codes for closed and open-system models without primary and secondary isotope effects.
+AeOM_model-K_oxidize_ps.ipynb and AeOM_model-K_oxidize-open-ps.ipynb are the codes for closed and open-system models with primary and secondary isotope effects.
 ## Modeling
 Modeled results for plotting.
 ## Water_isotope
